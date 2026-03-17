@@ -24,3 +24,16 @@ I can't quit quietly.
 - GitHub: https://github.com/oluwaferanmiAA
 - LinkedIn: https://www.linkedin.com/in/oluwaferanmi-adeleke-361398382
 - X/Twitter: https://x.com/Feran_leke
+## Day 3 - Forex Basics
+
+### Lesson 1 Key Takeaways
+- Forex is the largest financial market in the world
+- What is being traded in forex is currency
+- Currencies are always traded in pairs e.g EUR/USD
+
+### My Thoughts
+Just getting started. The concepts are simple 
+so far but I know it gets deeper. Staying consistent.
+
+### Next Up
+- Lesson 2: Who trades forex and why
