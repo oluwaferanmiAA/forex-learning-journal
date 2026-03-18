@@ -37,3 +37,25 @@ so far but I know it gets deeper. Staying consistent.
 
 ### Next Up
 - Lesson 2: Who trades forex and why
+## Day 4 - What is Traded in Forex?
+
+### Lesson 2 Key Takeaways
+- What is traded in forex is money in the 
+  form of currency
+- Currency symbols: first two letters = 
+  country name, last letter = currency name
+- Major currency nicknames:
+  USD = Buck
+  JPY = Yen
+  NZD = Kiwi
+  EUR = Euro
+  GBP = Cable/Sterling
+  AUD = Aussie
+  CHF = Swissy
+
+### My Thoughts
+Starting to understand the language of forex.
+The nicknames make currencies feel more real.
+
+### Next Up
+- Lesson 3: What is a currency pair?
