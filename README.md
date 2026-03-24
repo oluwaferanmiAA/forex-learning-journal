@@ -59,3 +59,19 @@ The nicknames make currencies feel more real.
 
 ### Next Up
 - Lesson 3: What is a currency pair?
+## Day 5 - Buying and Selling Currency Pairs
+
+### Lesson 3 Key Takeaways
+- Major currency pairs always include USD
+- Minor pairs are major currencies paired 
+  together excluding USD e.g EUR/GBP
+- Liquidity = volume of active buyers and 
+  sellers in a market
+- Major pairs have higher liquidity making 
+  them easier to trade
+- Higher liquidity = tighter spreads = 
+  better for beginners
+
+### My Thoughts
+Starting to understand why traders prefer 
+major pairs. Less risk, more predictable.
